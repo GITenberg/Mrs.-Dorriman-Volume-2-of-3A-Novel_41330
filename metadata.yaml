@@ -1,0 +1,31 @@
+_repo: Mrs.-Dorriman-Volume-2-of-3A-Novel_41330
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chetwynd, Henry Wayland, Mrs.
+    aliases:
+    - Chetwynd, Mrs. Wayland
+    - Chetwynd, Julia Bosville Davidson
+    - Chetwynd, Mrs. Henry
+    - Chetwynd, Mrs. Henry Wayland
+    - Chetwynd, Julie Bosville
+    deathdate: 1901
+    gutenberg_agent_id: '41116'
+    url: http://www.gutenberg.org/2009/agents/41116
+description: ''
+gutenberg_issued: '2012-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: 'Mrs. Dorriman: A Novel. Volume 2 of 3'
+url: http://www.gutenberg.org/ebooks/41330
